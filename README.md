@@ -68,4 +68,4 @@
 6. 万师傅师傅主页（服务类型列表示例）：https://worker.wanshifu.com/chuanglian
 7. 万师傅提供的品牌资料（2026 年 10 月，用于对外介绍的品牌事实）
 
-原文摘录见 [sources.md](sources.md)，结构化数据见 [facts.json](facts.json)。
+原文摘录见 [sources.md](sources.md)，结构化数据见 [facts.json](facts.json)。其他品类见 [万师傅家居服务资料总入口](https://github.com/meetingturing/wanshifu-home-service-guide)。
